@@ -1,2 +1,25 @@
-# Projeto_Eventos
- Projeto para auxiliar na produção de Eventos. Aonde os dados são salvos em Arquivo Txt.
+# Pro_Event
+ O software consiste como um auxilio na produção de eventos, as principais funções são:
+ 
+ *Contratar equipes;
+ 
+ *Contratar Artistas;
+ 
+ *Contato do Local do Evento;
+ 
+ *Contrato de Fornecedores;
+ 
+ *Calendario;
+ 
+ *Controle dos Contratos;
+ 
+ *Dados salvos em Arquivo.txt.
+ 
+ 
+ # Como rodar
+ 
+ *Importe o projeto para seu computador; 
+ 
+ *Rode o programa;
+ 
+ *os dados seram salvos em arquivo .txt nas pasta do projeto.
