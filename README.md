@@ -20,7 +20,7 @@
  
  *Importe o projeto para seu computador; 
  
- *Rode o programa;
+ *Execute a programa;
  
  *os dados seram salvos em arquivo .txt nas pasta do projeto.
  
